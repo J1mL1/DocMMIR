@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![DocMMIR Overview](overview.pdf)
+![DocMMIR Overview](overview.png)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.19312-b31b1b.svg)](https://arxiv.org/abs/2505.19312)
 [![Dataset](https://img.shields.io/badge/HF%20Dataset-Lord--Jim%2FDocMMIR-yellow)](https://huggingface.co/datasets/Lord-Jim/DocMMIR)
