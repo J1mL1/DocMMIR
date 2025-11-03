@@ -5,9 +5,11 @@
 ![DocMMIR Overview](overview.png)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.19312-b31b1b.svg)](https://arxiv.org/abs/2505.19312)
+[![ACL Anthology](https://img.shields.io/badge/ACL%20Anthology-2025.findings--emnlp.705-9cf.svg)](https://aclanthology.org/2025.findings-emnlp.705/)
 [![Dataset](https://img.shields.io/badge/HF%20Dataset-Lord--Jim%2FDocMMIR-yellow)](https://huggingface.co/datasets/Lord-Jim/DocMMIR)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
 
 </div>
 
