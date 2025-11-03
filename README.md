@@ -508,12 +508,26 @@ python src/train/train.py --fusion_strategy attention --experiment_name fusion_a
 If you use this code or dataset in your research, please cite our paper:
 
 ```bibtex
-@article{li2025docmmir,
-  title   = {DocMMIR: A Framework for Document Multi-modal Information Retrieval},
-  author  = {Li, Zirui and Wu, Siwei and Li, Yizhi and Wang, Xingyu and Zhou, Yi and Lin, Chenghua},
-  journal = {arXiv preprint arXiv:2505.19312},
-  year    = {2025},
-  url     = {https://arxiv.org/abs/2505.19312}
+@inproceedings{li-etal-2025-docmmir,
+    title = "{D}oc{MMIR}: A Framework for Document Multi-modal Information Retrieval",
+    author = "Li, Zirui  and
+      Wu, Siwei  and
+      Li, Yizhi  and
+      Wang, Xingyu  and
+      Zhou, Yi  and
+      Lin, Chenghua",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.705/",
+    pages = "13117--13130",
+    ISBN = "979-8-89176-335-7",
 }
 ```
 
